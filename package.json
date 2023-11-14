@@ -1,8 +1,4 @@
 {
-  "dependencies": {
-    "inquirer": "^9.2.12",
-    "jest": "^29.7.0"
-  },
   "name": "svg-logo-generator",
   "description": "A simple tool to generate logos using a command line interface.",
   "version": "1.0.0",
@@ -15,5 +11,10 @@
     "lib": "lib"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.4",
+    "jest": "^29.7.0"
+
+  }
 }
