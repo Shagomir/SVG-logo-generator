@@ -26,6 +26,8 @@
   
   To use the software, you simply need to run it as node index.js from your command line. Please see the video below for additional usage information. 
   
+  [SVG generator demo.webm](https://github.com/Shagomir/SVG-logo-generator/assets/51217532/c31a06c8-8a51-4bf9-8e8b-3fb7ebbd132e)
+
   ## Contributing
   
   This project is personal - please create a fork if you would like to continue development. 
