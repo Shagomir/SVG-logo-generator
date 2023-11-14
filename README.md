@@ -5,10 +5,6 @@
   
   A command-line interface for desiging simple logos in an SVG image format. 
 
-    ![](./examples/circle.svg)
-    ![](./examples/square.svg)
-    ![](./examples/triangle.svg)
-  
   ## Table of Contents
   
   - [Installation](#installation)
